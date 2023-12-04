@@ -42,13 +42,9 @@
 
 </br>
 
-# 게임 내 활용 디자인패턴
-### :ballot_box_with_check: Singleton(싱글톤)
-### :ballot_box_with_check: StatePattern(상태패턴)
-
 # 시연 영상
 
-- 영상 링크:
+- 영상 링크: https://www.youtube.com/watch?v=JlwMx1OHJJU&feature=youtu.be
 
 # 회고록
 
