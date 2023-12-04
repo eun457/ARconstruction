@@ -1,17 +1,14 @@
-# Unity AR Team Project_건출 AR 시뮬레이션
-
-# :memo: 목차
-
-- [담당 개발 내용](#담당_개발_내용)
-- [회고록](#회고록)
-- [참고자료](#참고자료)
+# [팀] 건축 AR 시뮬레이션
 
 </br>
 
 
-# :gem:UI 담당 개발 내용
+# :ballot_box_with_check: 기술 설명
+- 2D 도면 인 식 후 해당 3D 모델링 생성
+- UI 토글 및 버튼, 공정 슬라이더 기능 구현
+- ResourceManager로 공유되는 리소스 관리
 
-# 회고록
+# :ballot_box_with_check: 회고록
 
 ## 참고자료
 
