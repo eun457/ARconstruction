@@ -1,11 +1,8 @@
-# ARconstruction
+# Unity 3D Team Project_건축 AR 시뮬레이션
 <div align=center>
  
 (이미지)
 </div>
-
-# Unity 3D Team Project_건축 AR 시뮬레이션
-</br>
 
 ## :memo: 목차
 - [담당 개발 내용](#담당_개발_내용)
