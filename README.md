@@ -1,5 +1,4 @@
 # ARconstruction
-# 2D_CookieRun
 <div align=center>
  
 (이미지)
