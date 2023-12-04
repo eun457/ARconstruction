@@ -12,10 +12,6 @@
 
 ## :gem:UI 담당 파트 개발 기술설명
 
-# 게임 내 활용 디자인패턴
-## :gem:Singleton(싱글톤)
-## :gem:StatePattern(상태패턴)
-
 # 회고록
 
 ## 참고자료
