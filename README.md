@@ -42,5 +42,5 @@
 
 # 시연 영상
 
-- 영상 링크: https://www.youtube.com/watch?v=JlwMx1OHJJU&feature=youtu.be
+- 영상 링크: [시연 영상 바로가기lwMx1OHJJU&feature=youtu.be](https://youtu.be/YsPUUuTpEfA)https://youtu.be/YsPUUuTpEfA
 
